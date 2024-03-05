@@ -4,11 +4,13 @@
 ## Team Members:
 
 Caleb McCurdy  https://github.com/CalebMcCurdy
+
 UE Wang  https://github.com/UE-Wang
 
 ## Data Source:
 
 https://www.kaggle.com/datasets/cviaxmiwnptr/nfl-team-stats-20022019-espn/data
+
 Our dataset gives a variety of stats from NFL games over the course of 22 seasons. The data is a 998-kilobytes .csv file consisting of 5929 rows and 53 columns. Contained within the dataset are breakdowns of offensive stats categories by play type such as passing or rushing attempt. Additionally, the data is broken down by the team on offense by using the home and away teams to organize these. There are no missing or null values for any of the columns so we do not need to perform imputation to address any of them. 
 
 
